@@ -82,7 +82,7 @@ Business dashboard yang telah dibuat berfungsi sebagai alat pemantauan kinerja a
 1. Persiapkan Lingkungan
 Pastikan semua dependensi yang dibutuhkan sudah terinstal.
 ```
-streamlit run prediction.py
+streamlit run Prediksi.py
 ```
 2. Pastikan File yang Dibutuhkan Tersedia
    Letakkan file berikut di direktori proyek:
@@ -93,7 +93,7 @@ streamlit run prediction.py
 3. Jalankan Aplikasi Streamlit
    Buka terminal atau command prompt, lalu jalankan perintah berikut di direktori tempat file kode disimpan:
  ```
-streamlit run nama_file.py
+streamlit run Prediksi.py
 ```
 Interaksi dengan Aplikasi
 
