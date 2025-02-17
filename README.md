@@ -80,18 +80,20 @@ Business dashboard yang telah dibuat berfungsi sebagai alat pemantauan kinerja a
 
 ## Menjalankan Sistem Machine Learning
 1. Persiapkan Lingkungan
-
+2. 
    Pastikan semua dependensi yang dibutuhkan sudah terinstal.
 ```
 streamlit run Prediksi.py
 ```
 2. Pastikan File yang Dibutuhkan Tersedia
+3. 
    Letakkan file berikut di direktori proyek:
    - best_model.pkl (model machine learning yang sudah dilatih)
    - scaler.pkl (untuk normalisasi fitur numerik)
    - encoder.pkl (untuk encoding fitur kategorikal)
    - data_clean.csv (dataset bersih untuk referensi dan visualisasi)
-3. Jalankan Aplikasi Streamlit
+4. Jalankan Aplikasi Streamlit
+   
    Buka terminal atau command prompt, lalu jalankan perintah berikut di direktori tempat file kode disimpan:
  ```
 streamlit run Prediksi.py
