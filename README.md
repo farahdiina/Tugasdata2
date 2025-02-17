@@ -80,7 +80,8 @@ Business dashboard yang telah dibuat berfungsi sebagai alat pemantauan kinerja a
 
 ## Menjalankan Sistem Machine Learning
 1. Persiapkan Lingkungan
-Pastikan semua dependensi yang dibutuhkan sudah terinstal.
+
+   Pastikan semua dependensi yang dibutuhkan sudah terinstal.
 ```
 streamlit run Prediksi.py
 ```
